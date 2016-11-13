@@ -1,0 +1,22 @@
+{
+  "test-type":
+  {
+      "properties":
+      {
+        "message":
+        {
+          "type": "string"
+        },
+        "postDate":
+        {
+          "type": "date",
+          "format": "dateOptionalTime"
+        },
+        "user":
+        {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
